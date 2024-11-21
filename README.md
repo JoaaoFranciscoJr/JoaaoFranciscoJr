@@ -4,11 +4,12 @@
 - 👓 Atualmente estudando Linguagem C | HTML5 | CSS3 | JavaScript
 - 🤩 Apaixonado por tecnologia
 - 📚 Sempre aprendendo
+- 📫 Contato: joaofranciscojr.dev@gmail.com
 ##
 <div>
    <a href="https://github.com/JoaaoFranciscoJr">
-    <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=JoaaoFranciscoJr&show_icons=true&theme=radical&include_all_commit=true&count_private=true">
-    <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaaoFranciscoJr&langs_count=8&theme=radical">
+    <img height="160cm" <img width="42%" src="https://github-readme-stats.vercel.app/api?username=JoaaoFranciscoJr&show_icons=true&theme=radical&include_all_commit=true&count_private=true">
+    <img height="160cm" <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaaoFranciscoJr&langs_count=8&theme=radical">
 </div>
      
 <div style="display: inline_block" align="center"><br> 
